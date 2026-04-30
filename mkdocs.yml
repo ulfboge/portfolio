@@ -1,42 +1,29 @@
-# ============================================================
-# PORTFOLIO CONFIGURATION
-# Edit all lines marked [YOUR ...] to customize your site
-# ============================================================
-
-site_name: "[YOUR NAME] - Geospatial Portfolio"
-site_description: "Portfolio of [YOUR NAME] — GIS, Remote Sensing, and Spatial Data Science"
-site_author: "[YOUR NAME]"
-# After your site is live, uncomment and set this to your actual GitHub Pages URL:
-# site_url: "https://your-username.github.io/your-repo-name"
+site_name: "Johan Karlsson – GIS & Remote Sensing Portfolio"
+site_description: "Portfolio of Johan Karlsson — GIS, Remote Sensing, Carbon MRV, and Spatial Data Science"
+site_author: "Johan Karlsson"
+site_url: "https://ulfboge.github.io/portfolio"
 
 theme:
   name: material
-  # Icon used as both the site logo (header) and browser favicon.
-  # Browse icons at https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
-  # and replace "material/earth" with any "material/..." icon name you prefer.
   icon:
     logo: material/earth
   palette:
-    # To change the color, edit the 'primary' and 'accent' values below for both
-    # the 'default' (light) and 'slate' (dark) schemes.
-    # Available colors: red, pink, purple, deep purple, indigo, blue, light blue,
-    # cyan, teal, green, light green, lime, yellow, amber, orange, deep orange
-    - scheme: default            # Light mode
-      primary: indigo
-      accent: blue
+    - scheme: default
+      primary: teal
+      accent: green
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    - scheme: slate              # Dark mode
-      primary: indigo
-      accent: blue
+    - scheme: slate
+      primary: teal
+      accent: green
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
   features:
-    - navigation.tabs            # Top-level nav items shown as horizontal tabs
-    - navigation.top             # Back-to-top button when scrolling up
-    - content.code.copy          # Copy button on all code blocks
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
   font:
     text: Roboto
     code: Roboto Mono
@@ -45,13 +32,13 @@ extra_css:
   - assets/css/extra.css
 
 markdown_extensions:
-  - md_in_html        # Allows Markdown inside HTML blocks (used for project cards)
-  - attr_list         # Allows adding CSS classes to elements: ![img](url){ .class }
-  - admonition        # Note/warning/tip boxes
-  - pymdownx.details  # Collapsible admonition blocks
+  - md_in_html
+  - attr_list
+  - admonition
+  - pymdownx.details
   - pymdownx.superfences
   - tables
-  - pymdownx.emoji:   # Renders :material-icon: and :fontawesome-brands-icon: inline icons
+  - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
@@ -64,14 +51,35 @@ nav:
   - Home: index.md
   - Projects:
     - "All Projects": projects/index.md
-    - "Sample Project": projects/sample-project.md
-    - "Jupyter Notebook Project": projects/sample-notebook.ipynb
-    # HOW TO ADD A NEW PROJECT:
-    # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
-    #    (or drop an .ipynb file into docs/projects/ for a Jupyter notebook project)
-    # 2. Edit the new file with your project content
-    # 3. Add a line below (same format): - "Your Project Title": projects/your-project-name.md
-    # 4. Add a project card on docs/projects/index.md
-  - Publications: publications.md
+    - "Carbon & MRV":
+      - "Overview": projects/carbon-mrv/index.md
+      - "Gold Standard MRV Pipeline": projects/carbon-mrv/gold-standard.md
+      - "VM0047 Performance Benchmark": projects/carbon-mrv/vm0047-pb.md
+      - "Soil Carbon Modeling": projects/carbon-mrv/soil-carbon.md
+      - "Wildlands League – Ecosystem Services": projects/carbon-mrv/wildlands-league.md
+    - "Forest & Mangrove Change":
+      - "Overview": projects/forest-change/index.md
+      - "CO2 Operate Cameroon Highlands": projects/forest-change/co2-operate-cameroon.md
+      - "Tiko Mangrove Threat Mapping": projects/forest-change/tiko-mangrove.md
+      - "VoNat Mont Mbam": projects/forest-change/vonat-mont-mbam.md
+      - "VoNat Tiko Mangroves": projects/forest-change/vonat-tiko-mangroves.md
+      - "Skogsmonitor GEE Demo": projects/forest-change/skogsmonitor.md
+    - "Biodiversity & NRM":
+      - "Overview": projects/biodiversity/index.md
+      - "Madagascar Lemur SDM": projects/biodiversity/madagascar-lemur-sdm.md
+      - "NVI – Naturvärdesinventering": projects/biodiversity/nvi.md
+      - "Maps Portfolio": projects/biodiversity/maps-portfolio.md
+      - "Halmstad StadsNVI": projects/biodiversity/halmstad-stadsnvi.md
+    - "Web Apps & Data Pipelines":
+      - "Overview": projects/web-apps/index.md
+      - "Miljögifter i svenska sjöar": projects/web-apps/miljogifter.md
+      - "Geodata Pipeline Demo": projects/web-apps/geodata-pipeline.md
+      - "MGIS-Downloader": projects/web-apps/mgis-downloader.md
+    - "Test Projects":
+      - "Overview": projects/test-projects/index.md
+      - "GlosCoach": projects/test-projects/gloscoach.md
+      - "SIF P2015": projects/test-projects/sif-p2015.md
+      - "Stocksunds IF Loppsmarknad": projects/test-projects/loppsmarknad.md
   - Experience: experience.md
   - Contact: contact.md
+

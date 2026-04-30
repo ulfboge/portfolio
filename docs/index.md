@@ -1,23 +1,8 @@
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace [YOUR NAME] with your full name (3 places)
-- [ ] Replace [YOUR JOB TITLE] with your current or target role
-- [ ] Replace [YOUR TAGLINE] with a short phrase describing your focus
-- [ ] Rewrite the About Me paragraph with your own words
-- [ ] Replace assets/images/profile.png with your actual photo (keep the filename or update it below)
-- [ ] Replace assets/images/about.png with your own image (a field photo, map, or workspace shot)
-- [ ] Edit the skill cards to match your actual skills (add, remove, or rename cards as needed)
-- [ ] Update GitHub and LinkedIn links in the Connect section
-- [ ] Add your CV PDF to docs/assets/ and update the filename in the Download CV button
--->
-
-
-
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <img src="assets/images/profile.png" alt="Johan Karlsson" class="profile-photo">
+  <h1>Johan Karlsson</h1>
+  <p><strong>GIS-specialist &amp; Earth Observation Analyst</strong></p>
+  <p><em>Carbon MRV · Forest Monitoring · Biodiversity · Spatial Data Science</em></p>
 </div>
 
 ---
@@ -27,20 +12,16 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
+I am a GIS specialist and earth observation analyst with a background in biology and primate conservation. My work sits at the intersection of remote sensing, spatial data science, and environmental decision-making — primarily in carbon certification, forest change monitoring, and biodiversity assessment.
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I work with Google Earth Engine, QGIS, Python, and PostgreSQL/PostGIS to build reproducible analysis pipelines, land cover change maps, and MRV workflows for carbon standards including Gold Standard, VCS/VM0047, and Plan Vivo. I am the founder of [Komba GIS AB](https://komba-gis.se), a GIS consultancy focused on nature, forestry, and climate applications.
+
+I am currently seeking new assignments in GIS analysis, earth observation, and carbon/nature-based solutions — based in Djursholm, Sweden, with remote and field flexibility.
 
 </div>
 
 <div class="about-image">
-  <img src="assets/images/about.png" alt="About">
+  <img src="assets/images/about.png" alt="Field work">
 </div>
 
 </div>
@@ -48,8 +29,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
-
+[Download CV :material-download:](assets/Johan_Karlsson_CV.pdf){ .md-button }
 
 ---
 
@@ -61,57 +41,62 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
+    - QGIS (advanced), ArcGIS Pro, ArcGIS Online
+    - Google Earth Engine — time series & land cover change
     - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - Sentinel-2, Landsat, Planet imagery analysis
 
--   :material-code-braces:{ .lg .middle } **Programming**
-
-    ---
-
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
-
--   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
+-   :material-code-braces:{ .lg .middle } **Programming & Automation**
 
     ---
 
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
+    - Python — GeoPandas, Rasterio, NumPy, Pandas
+    - R — sf, terra, ggplot2, biomod2
+    - SQL — PostgreSQL + PostGIS
+    - FME Form (in progress), GitHub Actions CI/CD
 
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
+-   :material-leaf:{ .lg .middle } **Carbon & MRV**
 
     ---
 
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
+    - Gold Standard (GS4GG), VCS / VM0047, Plan Vivo
+    - Afforestation / Reforestation MRV workflows
+    - Performance Benchmark analysis
+    - Soil carbon modeling (MODIS, SoilGrids, GRIDMET)
 
--   :material-database:{ .lg .middle } **Data & Cloud**
+-   :material-forest:{ .lg .middle } **Forest & Land Cover Change**
+
+    ---
+
+    - Hansen Global Forest Change (GFC)
+    - CCDC change detection & classification
+    - Global Mangrove Watch (GMW v3)
+    - ESA WorldCover, ESRI LULC, NMD (Sweden)
+
+-   :material-database:{ .lg .middle } **Data & Infrastructure**
 
     ---
 
     - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+    - Cloud-native geospatial (COG, STAC, GeoParquet)
+    - Mergin Maps field data collection & QA/QC
+    - Reproducible pipelines with Git & GitHub Actions
 
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
+-   :material-paw:{ .lg .middle } **Biodiversity & NRM**
 
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
+    ---
+
+    - Species Distribution Modeling (MaxEnt / biomod2)
+    - AlphaEarth satellite embeddings
+    - Naturvärdesinventering (NVI) methodology
+    - Habitat mapping and fragmentation analysis
+
 </div>
-
 
 ---
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/ulfboge){ .md-button }
+[LinkedIn](https://linkedin.com/in/kombagis){ .md-button }
+[Komba GIS AB](https://komba-gis.se){ .md-button }

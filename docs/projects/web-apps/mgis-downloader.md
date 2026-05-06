@@ -1,6 +1,6 @@
 # MGIS-Downloader
 
-![MGIS-Downloader](../../assets/images/placeholder-project.png)
+![MGIS-Downloader](../../assets/images/mgis-downloader-logo.png)
 
 ## Overview
 

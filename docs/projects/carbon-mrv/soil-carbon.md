@@ -1,6 +1,6 @@
 # Soil Carbon Modeling
 
-![Soil Carbon Modeling](../../assets/images/placeholder-project.png)
+![Soil Carbon Modeling](../../assets/images/soil-carbon-distribution-visual.png)
 
 ## Overview
 

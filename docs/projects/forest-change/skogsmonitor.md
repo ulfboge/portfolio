@@ -1,6 +1,6 @@
 # Skogsmonitor – GEE App Demo
 
-![Skogsmonitor GEE Demo](../../assets/images/placeholder-project.png)
+![Skogsmonitor GEE Demo](../../assets/images/skogsmonitor-gee-demo.png)
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # NVI – Geodatadriven Naturvärdesinventering
 
-![NVI Pipeline](../../assets/images/placeholder-project.png)
+![NVI hotspot showcase](../../assets/images/nvi-hotspot-map.png)
 
 ## Overview
 

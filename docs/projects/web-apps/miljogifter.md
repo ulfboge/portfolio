@@ -1,6 +1,6 @@
 # Miljögifter i svenska sjöar
 
-![Miljögifter i svenska sjöar](../../assets/images/placeholder-project.png)
+![Miljögifter i svenska sjöar](../../assets/images/miljogifter-screenshot.png)
 
 ## Overview
 

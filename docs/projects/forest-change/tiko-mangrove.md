@@ -1,6 +1,6 @@
 # Tiko Mangrove Threat Mapping
 
-![Tiko Mangrove Threat Mapping](../../assets/images/placeholder-project.png)
+![Tiko Mangrove Threat Mapping](../../assets/images/tiko-mangrove-loss-by-year.png)
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # Maps Portfolio
 
-![Maps Portfolio](../../assets/images/placeholder-project.png)
+![Maps Portfolio](../../assets/images/maps-portfolio-species-occurrences.png)
 
 ## Overview
 

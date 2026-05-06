@@ -1,7 +1,5 @@
 # GlosCoach
 
-![GlosCoach](../../assets/images/placeholder-project.png)
-
 ## Overview
 
 A simple web app that helps children practice English vocabulary from Swedish school material. The app uses OCR to read vocabulary lists and AI-powered grading to give feedback on answers — designed to make homework practice more engaging.

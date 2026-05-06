@@ -1,6 +1,6 @@
 # VoNat Mont Mbam
 
-![VoNat Mont Mbam](../../assets/images/placeholder-project.png)
+![VoNat Mont Mbam](../../assets/images/vonat-mont-mbam-cumulative-loss.png)
 
 ## Overview
 

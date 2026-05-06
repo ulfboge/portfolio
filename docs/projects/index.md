@@ -4,12 +4,21 @@ A selection of my geospatial and earth observation projects. Click any card to s
 
 ---
 
+## Browse by theme
+
+[Carbon & MRV](carbon-mrv/index.md){ .md-button .md-button--primary }
+[Forest & Mangrove Change](forest-change/index.md){ .md-button .md-button--primary }
+[Biodiversity & NRM](biodiversity/index.md){ .md-button .md-button--primary }
+[Web Apps & Data Pipelines](web-apps/index.md){ .md-button .md-button--primary }
+
+---
+
 ## Carbon & MRV
 
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![Gold Standard MRV Pipeline](../assets/images/gold-standard-cover.png)
 
 **[Gold Standard MRV Pipeline](carbon-mrv/gold-standard.md)**
 
@@ -21,7 +30,7 @@ A prototype MRV pipeline for Afforestation/Reforestation projects under the Gold
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![VM0047 Performance Benchmark](../assets/images/vm0047-benchmark-chart.png)
 
 **[VM0047 Performance Benchmark](carbon-mrv/vm0047-pb.md)**
 
@@ -33,7 +42,7 @@ A reusable toolkit for conducting Performance Benchmark analysis under the VM004
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![Soil Carbon Modeling](../assets/images/soil-carbon-distribution-visual.png)
 
 **[Soil Carbon Modeling](carbon-mrv/soil-carbon.md)**
 
@@ -45,7 +54,7 @@ Automated extraction and processing of geospatial data for soil carbon modeling 
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![Wildlands League – Ecosystem Services](../assets/images/wildlands-forest-change-timeseries.png)
 
 **[Wildlands League – Ecosystem Services](carbon-mrv/wildlands-league.md)**
 
@@ -65,7 +74,7 @@ Geospatial analysis and carbon assessment for a transition from conventional log
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![CO2 Operate Cameroon Highlands](../assets/images/co2-operate-forest-cover-map.png)
 
 **[CO2 Operate Cameroon Highlands](forest-change/co2-operate-cameroon.md)**
 
@@ -77,7 +86,7 @@ Remote sensing component for a Plan Vivo carbon certification project in the Cam
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![Tiko Mangrove Threat Mapping](../assets/images/tiko-mangrove-loss-by-year.png)
 
 **[Tiko Mangrove Threat Mapping](forest-change/tiko-mangrove.md)**
 
@@ -89,7 +98,7 @@ Mapping and quantifying mangrove deforestation in the Tiko area of Cameroon usin
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![VoNat Mont Mbam](../assets/images/vonat-mont-mbam-cumulative-loss.png)
 
 **[VoNat Mont Mbam](forest-change/vonat-mont-mbam.md)**
 
@@ -101,7 +110,7 @@ Comprehensive land cover change analysis in the Mont Mbam region using CCDC and 
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![VoNat Tiko Mangroves](../assets/images/vonat-tiko-mangrove-baseline.png)
 
 **[VoNat Tiko Mangroves](forest-change/vonat-tiko-mangroves.md)**
 
@@ -113,7 +122,7 @@ Remote sensing analysis of the Tiko Mangrove ecosystem in Cameroon using satelli
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![Skogsmonitor GEE Demo](../assets/images/skogsmonitor-gee-demo.png)
 
 **[Skogsmonitor GEE Demo](forest-change/skogsmonitor.md)**
 
@@ -133,7 +142,7 @@ A Google Earth Engine App demonstrating satellite-based forest change monitoring
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![Madagascar Lemur SDM](../assets/images/madagascar-lemur-study-area-map.png)
 
 **[Madagascar Lemur SDM](biodiversity/madagascar-lemur-sdm.md)**
 
@@ -145,7 +154,7 @@ Species Distribution Modeling for five lemur species in Madagascar using AlphaEa
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![NVI – Naturvärdesinventering](../assets/images/nvi-hotspot-showcase.png)
 
 **[NVI – Naturvärdesinventering](biodiversity/nvi.md)**
 
@@ -157,7 +166,7 @@ A reproducible pipeline combining Swedish open geodata (NMD, Lantmäteriet, Skog
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![Maps Portfolio](../assets/images/maps-portfolio-species-occurrences.png)
 
 **[Maps Portfolio](biodiversity/maps-portfolio.md)**
 
@@ -166,18 +175,6 @@ A collection of biodiversity maps visualizing species distribution data for gala
 `QGIS` `Leaflet` `GBIF`
 
 [View Project →](biodiversity/maps-portfolio.md){ .md-button }
-</div>
-
-<div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
-
-**[Halmstad StadsNVI](biodiversity/halmstad-stadsnvi.md)**
-
-A desktop NVI (Nature Value Index) project for a test area in Halmstad, using open Swedish geodata to identify and prioritize urban nature values.
-
-`QGIS` `Open Geodata` `NVI`
-
-[View Project →](biodiversity/halmstad-stadsnvi.md){ .md-button }
 </div>
 
 </div>
@@ -189,7 +186,7 @@ A desktop NVI (Nature Value Index) project for a test area in Halmstad, using op
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![Miljögifter i svenska sjöar](../assets/images/miljogifter-screenshot.png)
 
 **[Miljögifter i svenska sjöar](web-apps/miljogifter.md)**
 
@@ -201,7 +198,7 @@ An interactive web map visualizing environmental toxins (PFAS, mercury, PCB, cad
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![Geodata Pipeline Demo](../assets/images/geodata-pipeline-method-diagram.png)
 
 **[Geodata Pipeline Demo](web-apps/geodata-pipeline.md)**
 
@@ -213,7 +210,7 @@ An automated geodata workflow built with Python and GitHub Actions: reads GeoPac
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![MGIS-Downloader](../assets/images/mgis-downloader-logo.png)
 
 **[MGIS-Downloader](web-apps/mgis-downloader.md)**
 

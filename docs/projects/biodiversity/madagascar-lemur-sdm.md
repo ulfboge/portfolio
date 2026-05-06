@@ -1,6 +1,6 @@
 # Madagascar Lemur SDM
 
-![Madagascar Lemur SDM](../../assets/images/placeholder-project.png)
+![Madagascar Lemur SDM](../../assets/images/madagascar-lemur-study-area-map.png)
 
 ## Overview
 

@@ -69,9 +69,36 @@ Data entry and quality assurance in the museum's biodiversity database according
 
 ## Certifications & Training
 
-| Course | Provider |
-|--------|----------|
-| Introduction to QGIS | QGIS.org |
-| Advanced QGIS | QGIS.org |
-| Google Earth Engine for Water Resources Management | — |
-| FME Form Basic *(in progress)* | Safe Software |
+Grouped by software and workflow focus.
+
+### GIS Platforms (QGIS / ArcGIS)
+
+| Course | Provider | Issued | Credential ID |
+|--------|----------|--------|---------------|
+| Going Places with Spatial Analysis | Esri | Mar 2025 | — |
+| Advanced QGIS (Online) | Spatial Thoughts | Aug 2023 | QGIS-4737 |
+| Introduction to QGIS (Online) | Spatial Thoughts | Jun 2023 | QGIS-4578 |
+| Learning QGIS | LinkedIn | Dec 2020 | — |
+| Fundamentals of GIS | Coursera Course Certificates | Jan 2020 | BC6474HMLTQM |
+| GIS Data Formats, Design and Quality | Coursera Course Certificates | Jan 2020 | BC6474HMLTQM |
+
+### Earth Observation (Google Earth Engine)
+
+| Course | Provider | Issued | Credential ID |
+|--------|----------|--------|---------------|
+| Google Earth Engine for Water Resources Management | Spatial Thoughts | Jan 2024 | ST-GEEWRM-628 |
+| End-to-End Google Earth Engine | Spatial Thoughts | Jul 2023 | ST-GEE-594 |
+
+### Geospatial Programming & Data Processing
+
+| Course | Provider | Issued | Credential ID |
+|--------|----------|--------|---------------|
+| Python Foundation for Spatial Analysis | Spatial Thoughts | Aug 2024 | ST-PYTHON-783 |
+| Mastering GDAL Tools | Spatial Thoughts | Feb 2024 | ST-GDAL-652 |
+| Geospatial and Environmental Analysis | Coursera | Oct 2020 | JFJHBQBDJ69G |
+
+### BI & Visualization
+
+| Course | Provider | Issued | Credential ID |
+|--------|----------|--------|---------------|
+| Power BI: Dashboards for Beginners | LinkedIn | Dec 2020 | — |

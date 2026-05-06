@@ -1,6 +1,6 @@
 # VoNat Tiko Mangroves
 
-![VoNat Tiko Mangroves](../../assets/images/placeholder-project.png)
+![VoNat Tiko Mangroves](../../assets/images/vonat-tiko-mangrove-baseline.png)
 
 ## Overview
 

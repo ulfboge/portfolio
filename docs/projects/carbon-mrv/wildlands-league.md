@@ -1,6 +1,6 @@
 # Wildlands League – Ecosystem Services & Carbon
 
-![Wildlands League](../../assets/images/placeholder-project.png)
+![Wildlands League](../../assets/images/wildlands-forest-change-timeseries.png)
 
 ## Overview
 

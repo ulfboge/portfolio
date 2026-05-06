@@ -1,7 +1,5 @@
 # Stocksunds IF Loppsmarknad
 
-![Stocksunds IF Loppsmarknad](../../assets/images/placeholder-project.png)
-
 ## Overview
 
 Event website for the **Stocksunds IF running market** (loppsmarknad) — a local community sports event. A simple static site providing event information, schedule, and registration details.

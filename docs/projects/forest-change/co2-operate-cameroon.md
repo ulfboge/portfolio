@@ -1,6 +1,6 @@
 # CO2 Operate Cameroon Highlands
 
-![Cameroon Highlands Remote Sensing](../../assets/images/placeholder-project.png)
+![Cameroon Highlands Remote Sensing](../../assets/images/co2-operate-forest-cover-map.png)
 
 ## Overview
 

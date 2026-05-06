@@ -1,6 +1,6 @@
 # Gold Standard MRV Pipeline
 
-![Gold Standard MRV](../../assets/images/placeholder-project.png)
+![Gold Standard MRV](../../assets/images/gold-standard-cover.png)
 
 ## Overview
 

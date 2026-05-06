@@ -34,14 +34,4 @@ Biodiversity maps for galagos in Tanzania and lemurs in Madagascar.
 [View Project →](maps-portfolio.md){ .md-button }
 </div>
 
-<div class="project-card" markdown>
-**[Halmstad StadsNVI](halmstad-stadsnvi.md)**
-
-Desktop NVI for an urban test area in Halmstad using open Swedish geodata.
-
-`QGIS` `NMD` `Open Geodata`
-
-[View Project →](halmstad-stadsnvi.md){ .md-button }
-</div>
-
 </div>

@@ -1,6 +1,6 @@
 # Geodata Pipeline Demo
 
-![Geodata Pipeline Demo](../../assets/images/placeholder-project.png)
+![Geodata Pipeline Demo](../../assets/images/geodata-pipeline-method-diagram.png)
 
 ## Overview
 

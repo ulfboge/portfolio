@@ -69,7 +69,6 @@ nav:
       - "Madagascar Lemur SDM": projects/biodiversity/madagascar-lemur-sdm.md
       - "NVI – Naturvärdesinventering": projects/biodiversity/nvi.md
       - "Maps Portfolio": projects/biodiversity/maps-portfolio.md
-      - "Halmstad StadsNVI": projects/biodiversity/halmstad-stadsnvi.md
     - "Web Apps & Data Pipelines":
       - "Overview": projects/web-apps/index.md
       - "Miljögifter i svenska sjöar": projects/web-apps/miljogifter.md

@@ -74,6 +74,7 @@ nav:
       - "Miljögifter i svenska sjöar": projects/web-apps/miljogifter.md
       - "Geodata Pipeline Demo": projects/web-apps/geodata-pipeline.md
       - "MGIS-Downloader": projects/web-apps/mgis-downloader.md
+      - "Naturkarta – Skyddad natur och skog": projects/web-apps/naturkarta.md
     - "Test Projects":
       - "Overview": projects/test-projects/index.md
       - "GlosCoach": projects/test-projects/gloscoach.md

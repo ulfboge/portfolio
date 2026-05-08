@@ -34,4 +34,14 @@ Web application for downloading and processing geographic data from Swedish auth
 [View Project →](mgis-downloader.md){ .md-button }
 </div>
 
+<div class="project-card" markdown>
+**[Naturkarta — Skyddad natur och skog](naturkarta.md)**
+
+Web GIS portal built on Origo Map displaying Swedish nature reserves, national parks, Natura 2000, and logging notifications with clickable popups.
+
+`Origo Map` `OpenLayers` `WMS` `GeoJSON`
+
+[View Project →](naturkarta.md){ .md-button }
+</div>
+
 </div>

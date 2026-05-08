@@ -5,6 +5,8 @@ Projects in species distribution modeling, nature value assessment, and biodiver
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
+![Madagascar Lemur SDM](../../assets/images/madagascar-lemur-study-area-map.png)
+
 **[Madagascar Lemur SDM](madagascar-lemur-sdm.md)**
 
 Species Distribution Modeling for five lemur species using AlphaEarth embeddings and bioclimatic variables.
@@ -15,6 +17,8 @@ Species Distribution Modeling for five lemur species using AlphaEarth embeddings
 </div>
 
 <div class="project-card" markdown>
+![NVI – Naturvärdesinventering](../../assets/images/nvi-hotspot-showcase.png)
+
 **[NVI – Naturvärdesinventering](nvi.md)**
 
 Reproducible pipeline for prioritized nature value hotspot mapping using Swedish open geodata.
@@ -25,6 +29,8 @@ Reproducible pipeline for prioritized nature value hotspot mapping using Swedish
 </div>
 
 <div class="project-card" markdown>
+![Maps Portfolio](../../assets/images/maps-portfolio-species-occurrences.png)
+
 **[Maps Portfolio](maps-portfolio.md)**
 
 Biodiversity maps for galagos in Tanzania and lemurs in Madagascar.

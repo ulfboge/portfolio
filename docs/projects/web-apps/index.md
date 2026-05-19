@@ -52,4 +52,16 @@ Web GIS portal built on Origo Map displaying Swedish nature reserves, national p
 [View Project →](naturkarta.md){ .md-button }
 </div>
 
+<div class="project-card" markdown>
+![Mammal Diversity Database (MDD)](../../assets/images/mdd-map-screenshot.png)
+
+**[Mammal Diversity Database (MDD)](mdd.md)**
+
+Interactive MapLibre web map and FastAPI over MDD v2.4 — 6,871 mammal species, type localities by IUCN status, and GBIF occurrence overlays.
+
+`DuckDB` `FastAPI` `MapLibre` `React` `Docker`
+
+[View Project →](mdd.md){ .md-button }
+</div>
+
 </div>

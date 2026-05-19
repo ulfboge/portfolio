@@ -75,6 +75,7 @@ nav:
       - "Geodata Pipeline Demo": projects/web-apps/geodata-pipeline.md
       - "MGIS-Downloader": projects/web-apps/mgis-downloader.md
       - "Naturkarta – Skyddad natur och skog": projects/web-apps/naturkarta.md
+      - "Mammal Diversity Database (MDD)": projects/web-apps/mdd.md
     - "Test Projects":
       - "Overview": projects/test-projects/index.md
       - "GlosCoach": projects/test-projects/gloscoach.md

@@ -1,7 +1,7 @@
 site_name: "Johan Karlsson – GIS & Remote Sensing Portfolio"
 site_description: "Portfolio of Johan Karlsson — GIS, Remote Sensing, Carbon MRV, and Spatial Data Science"
 site_author: "Johan Karlsson"
-site_url: "https://ulfboge.github.io/portfolio"
+site_url: "https://kombagis.se"
 
 theme:
   name: material
